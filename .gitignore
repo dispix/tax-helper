@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local design specs (not committed; use for PR / planning only)
+docs/superpowers/specs/
